@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/amarillo"
+    android:background="@drawable/bg_dialog_rounded_yellow"
     tools:context=".ReproductorFragment">
 
     <TextView
